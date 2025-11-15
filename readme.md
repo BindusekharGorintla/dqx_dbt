@@ -37,12 +37,21 @@ export DBT_ACCESS_TOKEN=<databricks_pat_token>
 export DBT_HOST=<databricks_workspace_url>
 export DBT_WAREHOUSE_ID=<databricks_sql_warehouse_id>
 
-
 Navigate to /dqx_demo_dbt and execute the following commands:
-poetry run dbt run
+
+poetry run dbt run 
 
 # 📖 Documentation
 
 The complete documentation is available at: [https://databrickslabs.github.io/dqx/]
+
+## DBT Resources
+
+- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
+- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
+- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
+- Find [dbt events](https://events.getdbt.com) near you
+- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- DBT Cheatsheet -> <https://datacaffee.com/dbt-data-built-tool-commands-cheat-sheet/>
 
 
