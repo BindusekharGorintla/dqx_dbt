@@ -1,6 +1,6 @@
 # dbt-DQX Quality Integration
 
-![DQX Logo](https://github.com/user-attachments/assets/d315b491-8a7e-47e3-81d5-fcde6b8611f0)
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/d315b491-8a7e-47e3-81d5-fcde6b8611f0" />
 
 Simplified Data Quality checking at scale for PySpark workloads on streaming and standard DataFrames.
 
