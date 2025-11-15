@@ -17,6 +17,7 @@ Running DQX with DBT projects
 This demo shows how to apply data quality checks from dbt projects. The DQX quality checking is executed using dbt python models.
 Prerequisites
 Install dbt and required adapters:
+
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7112579d-ee67-4b08-83ff-302a3b4f173e" />
 
 
