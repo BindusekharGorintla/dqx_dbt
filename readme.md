@@ -15,7 +15,7 @@ This project demonstrates how to integrate dbt (Data Build Tool) with Databricks
 
 ## Running DQX with DBT Projects
 
-This demo shows how to apply data quality checks from dbt projects. The DQX quality checking is executed using dbt Python models.
+This project shows how to apply data quality checks from dbt projects. The DQX quality checking is executed using dbt Python models.
 
 ### Prerequisites
 
