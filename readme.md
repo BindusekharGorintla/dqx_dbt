@@ -1,11 +1,8 @@
 DQX by Databricks Labs
 ===
 
-<p align="center">
-    <a href="https://github.com/databrickslabs/dqx">
-        <img src="docs/dqx/static/img/logo.svg" class="align-center" width="200" height="200" alt="logo" />
-    </a>
-</p>
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d315b491-8a7e-47e3-81d5-fcde6b8611f0" />
+
 
 Simplified Data Quality checking at Scale for PySpark Workloads on streaming and standard DataFrames.
 
