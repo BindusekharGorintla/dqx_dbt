@@ -12,7 +12,7 @@ Simplified Data Quality checking at Scale for PySpark Workloads on streaming and
 [![PyPI](https://img.shields.io/pypi/v/databricks-labs-dqx?label=pypi%20package&cacheSeconds=3600)](https://pypi.org/project/databricks-labs-dqx/) 
 ![PyPI Downloads](https://static.pepy.tech/personalized-badge/databricks-labs-dqx?period=month&units=international_system&left_color=grey&right_color=orange&left_text=PyPI%20downloads&cacheSeconds=3600)
 
-Running DQX with DBT projects
+Running DQX with DBT projects:
 
 This demo shows how to apply data quality checks from dbt projects. The DQX quality checking is executed using dbt python models.
 Prerequisites
