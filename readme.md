@@ -32,7 +32,6 @@ To get started, install dbt and the required adapters:
 
 Provide authentication credentials to connect to the Databricks workspace by running the following commands in your console:
 
-```bash
 export DBT_ACCESS_TOKEN=<databricks_pat_token>
 export DBT_HOST=<databricks_workspace_url>
 export DBT_WAREHOUSE_ID=<databricks_sql_warehouse_id>
