@@ -1,10 +1,10 @@
-biomarker_table:
+observation_table:
   - criticality: error
     check:
-      for_each_column: [result_datetime,collected_datetime]
+      for_each_column: [obs_datetime,lab_datetime]
       function: is_not_in_future
 cancer_p_table:
   - criticality: error
     check:
-      for_each_column: [eligibility_date]
+      for_each_column: birth_date]
       function: is_not_in_future
