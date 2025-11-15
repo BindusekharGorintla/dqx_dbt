@@ -38,9 +38,10 @@ export DBT_HOST=<databricks_workspace_url>
 export DBT_WAREHOUSE_ID=<databricks_sql_warehouse_id>
 
 Navigate to /dqx_demo_dbt and execute the following commands:
+poetry run dbt run
 
 # 📖 Documentation
 
-The complete documentation is available at: [https://databrickslabs.github.io/dqx/](https://databrickslabs.github.io/dqx/)
+The complete documentation is available at: [https://databrickslabs.github.io/dqx/]
 
 
