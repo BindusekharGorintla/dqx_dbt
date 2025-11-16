@@ -81,4 +81,12 @@ The complete documentation is available at: [https://databrickslabs.github.io/dq
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
 - DBT Cheatsheet -> <https://datacaffee.com/dbt-data-built-tool-commands-cheat-sheet/>
 
+## 👨‍💻 Contributing
 
+Feel free to fork the repository, submit pull requests, or raise issues for improvements!
+
+---
+
+## 📧 Contact
+
+For questions or support, reach out to **Bindusekhar Gorintla** at (gorintla.bindusekhar@gmail.com).
