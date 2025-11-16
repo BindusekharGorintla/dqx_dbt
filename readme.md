@@ -11,7 +11,32 @@ Simplified Data Quality checking at scale for PySpark workloads on streaming and
 ![PyPI Downloads](https://static.pepy.tech/personalized-badge/databricks-labs-dqx?period=month&units=international_system&left_color=grey&right_color=orange&left_text=PyPI%20downloads&cacheSeconds=3600)
 
 # Project Overview
-This project demonstrates how to integrate dbt (Data Build Tool) with Databricks Labs DQX to build a data reliability framework. The goal is to ensure that data pipelines are not only scalable and efficient but also trustworthy, observable, and resilient.
+This project shows how to use dbt together with Databricks Labs DQX to make data pipelines more reliable.
+
+We use DQX to run data quality checks.
+
+After the checks, the clean data is loaded into Databricks tables.
+
+These tables are then used to build dashboards, so the reports are based on trusted data.
+
+# Why this matters
+
+✅ Data is checked before it’s used.
+
+📊 Dashboards show accurate information.
+
+⚡ Pipelines stay efficient and scalable.
+
+🔍 Easy to observe and monitor data quality.
+
+# How it works
+Build models with dbt.
+
+Run DQX checks to catch problems.
+
+Load the verified data into Databricks tables.
+
+Use those tables in dashboards for insights.
 
 ## Running DQX with DBT Projects
 
